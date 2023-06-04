@@ -5,7 +5,7 @@
 <p> 🌱 I’m currently learning: </p>
 <ul>
   <li>JavaScript</li>
-  <li>React</li>
+  <li>Vue</li>
   <li>CSS | SASS | SCSS </li>
   <li>HTML | UI Material</li>
   <li>More others...</li>

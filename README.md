@@ -1,5 +1,5 @@
 <h1 align="center"> Greetings you! I'm Sonya 👩🏻‍💻 </h1>
-<h3 align="center">Junior Frontend developer | JavaScript | React </h3>
+<h3 align="center">Junior Frontend developer | JavaScript | Vue </h3>
 
 <div>
 <p> 🌱 I’m currently learning: </p>
